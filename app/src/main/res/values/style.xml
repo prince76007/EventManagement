@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="editTextStyle" parent="android:Widget.EditText">
+        <item name="android:layout_marginHorizontal">30dp</item>
+        <item name="android:layout_marginTop">12dp</item>
+    </style>
+    <style name="buttonStyle" parent="android:Widget.Button">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:layout_marginHorizontal">30dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">14dp</item>
+        <item name="android:background">@color/buttonLoging</item>
+    </style>
+</resources>

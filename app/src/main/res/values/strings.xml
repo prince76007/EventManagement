@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Event Management</string>
+    <string name="create_user">Create User</string>
+    <string name="create_event">Create Event</string>
+    <string name="event_list">Event List</string>
+    <string name="create_guest">Create Guest</string>
+    <string name="guest_list">Guest List</string>
+    <string name="log_in">LOG IN</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="mobile_no">Mobile NO</string>
+    <string name="user_password">User Password</string>
+    <string name="enter_designation">Enter Designation</string>
+    <string name="event_title">Event Title</string>
+    <string name="date_of_event">Date of Event  eg. 01/01/2000</string>
+    <string name="venue">Venue</string>
+    <string name="enter_guest_name">Enter Guest Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_phone_no">Enter Phone No.</string>
+    <string name="enter_company_name">Enter Company Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_description">Enter Description</string>
+    <string-array name="eventType_array">
+        <item>Select Event Type</item>
+        <item>Cultural</item>
+    </string-array>
+</resources>
